@@ -1,7 +1,9 @@
 # NextJS 学習用プロジェクト
 ## 必要なツール
 
-[Docker Desktop](https://www.docker.com/products/docker-desktop) 
+- [Docker Desktop](https://www.docker.com/products/docker-desktop) 
+- [homebrew](https://brew.sh/index_ja)
+- node(`brew install node` を実行)
 
 ## 実行手順
 下記の手順でアプリの初期画面が表示できます。
